@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-mybatis" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/abel-util/pom.xml" />
+        <option value="$PROJECT_DIR$/abel-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springWebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo/abel-user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo/abel-user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-Cache2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-Quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-swagger-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis-queue/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-springCloud/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rocketmq-ali/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-SpringSecurity0/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-SpringSecurity1/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-springSecurity2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-springSecurity3/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-springSecurity4/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dynamicDataSource/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

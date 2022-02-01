@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/abel-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springWebSocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-Cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-Cache2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-Quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-SpringSecurity0/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-SpringSecurity1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/abel-user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/abel-user-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/abel-user-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/abel-user-provider/src/main/resources/local" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dynamicDataSource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-neo4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis-queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-rocketmq-ali/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro2/src/main/resources/local" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/person/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/person/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/some/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/some/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springCloud/ui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springSecurity2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springSecurity3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springSecurity4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-swagger-ui/src/main/java" charset="UTF-8" />
+  </component>
+</project>
